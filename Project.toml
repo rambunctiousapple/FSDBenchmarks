@@ -1,0 +1,4 @@
+name = "FSDBenchmarks"
+uuid = "9445e62b-6000-4d24-b02c-e726ae677163"
+authors = ["BrianGuenter <1brianguenter@gmail.com>"]
+version = "0.1.0"
